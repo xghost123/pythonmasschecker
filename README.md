@@ -1,7 +1,6 @@
 <h1>Python Mass Smtp Checker</h1>
-<p><a href="https://github.com/MisterSpyx/Python-Sender-/"></a>
-<a href="https://github.com/MisterSpyx/Python-Sender-/r"><img src="https://img.shields.io/badge/Release-Stable-orange.svg" alt="Stage" data-canonical-src="https://img.shields.io/badge/Release-Stable-orange.svg" style="max-width:100%;"></a>
-<a href="https://github.com/MisterSpyx/Python-Sender-/"><img src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" alt="Build" data-canonical-src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" style="max-width:100%;"></a></p>
+<p><a href="https://github.com/xghost123/pythonmasschecker-/"></a>
+
 <p> Smpt Mass Checker Tool 🔓  </p>
 
 
@@ -26,5 +25,4 @@ Use Python 3
 <strong>What's New </strong>
 <p>• speed up<p>
 <p>• Bug fixes<p>
-  <h1>More Tools In My Facebook</h1>
-https://www.facebook.com/007MrSpy
+
